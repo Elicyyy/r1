@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+.topnav{
+    background-color: hotpink;
+    height: 70px;
+}
+.topnav a{
+   color: white;
+    text-decoration: none;
+    margin-left: 240px;
+   
+}
+img{
+    margin-left: 800px;
+    width: 800px;
+}
+h1{
+    margin-top: -669px;
+}
+.bx{
+    background-color: white;
+    width: 300px;
+    height: 250px;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-top: 150px;
+
+}
+.bx h4{
+    margin-top: 40px;
+}
+.bx p{
+    margin-top: 20px;
+}
+.box1{
+    background-color: pink;
+    width: 300px;
+    height: 300px;
+    margin-left: 30px ;
+    margin-top: 590px;
+    margin-bottom: 240px;
+}
+.box1 img{
+    width: 100%;
+    margin-left: 0.1px;
+    height: 170px;
+}
+button{
+    background-color: black;
+    color: white;
+    width: 80%;
+    height: 30px;
+    border: none;
+    border-radius: 6px;
+    margin-right: 4px;
+    margin-top: 40px;
+}
+.box2{
+    background-color: pink;
+    width: 300px;
+    height: 300px;
+    margin-left: 600px ;
+    margin-top: -544px;
+    margin-bottom: 240px;
+}
+.box2 img{
+    width: 100%;
+    margin-left: 0.1px;
+    height: 170px;
+}
+button{
+    background-color: black;
+    color: white;
+    width: 80%;
+    height: 30px;
+    border: none;
+    border-radius: 6px;
+    margin-right: 4px;
+    margin-top: 40px;
+}
+.box3{
+    background-color: pink;
+    width: 300px;
+    height: 300px;
+    margin-left: 1200px ;
+    margin-top: -540px;
+    margin-bottom: 240px;
+}
+.box3 img{
+    width: 100%;
+    margin-left: 0.1px;
+    height: 170px;
+}
+button{
+    background-color: black;
+    color: white;
+    width: 80%;
+    height: 30px;
+    border: none;
+    border-radius: 6px;
+    margin-right: 4px;
+    margin-top: 40px;
+}
+.box4{
+    background-color: pink;
+    width: 300px;
+    height: 300px;
+    margin-left: 30px ;
+    margin-top: -190px;
+    margin-bottom: 240px;
+}
+.box4 img{
+    width: 100%;
+    margin-left: 0.1px;
+    height: 170px;
+}
+button{
+    background-color: black;
+    color: white;
+    width: 80%;
+    height: 30px;
+    border: none;
+    border-radius: 6px;
+    margin-right: 4px;
+    margin-top: 40px;
+}
+.box5{
+    background-color: pink;
+    width: 300px;
+    height: 300px;
+    margin-left: 600px ;
+    margin-top: -536px;
+    margin-bottom: 240px;
+}
+.box5 img{
+    width: 100%;
+    margin-left: 0.1px;
+    height: 170px;
+}
+button{
+    background-color: black;
+    color: white;
+    width: 80%;
+    height: 30px;
+    border: none;
+    border-radius: 6px;
+    margin-right: 4px;
+    margin-top: 40px;
+}
+.box6{
+    background-color: pink;
+    width: 300px;
+    height: 300px;
+    margin-left: 1200px ;
+    margin-top: -540px;
+    margin-bottom: 240px;
+}
+.box6 img{
+    width: 100%;
+    margin-left: 0.1px;
+    height: 170px;
+}
+button{
+    background-color: black;
+    color: white;
+    width: 80%;
+    height: 30px;
+    border: none;
+    border-radius: 6px;
+    margin-right: 4px;
+    margin-top: 40px;
+}
+button:hover{
+    background-color: hotpink;
+}
